@@ -8,19 +8,19 @@ Nesse módulo, <strong>criamos uma aplicação React , aprenderemos sobre os con
 - [HTML](https://html.org/)
 - [CSS](https://css.org/)
 
-![gif](./public/my-feed.gif)
+![gif](./front/public/my-feed.gif)
 
 ##
 
-![gif](./public/my-feed1.png)
+![gif](./front/public/my-feed1.png)
 
 ##
 
-![gif](./public//my-feed2.png)
+![gif](./front/public/my-feed2.png)
 
 ##
 
-![gif](./public/my-feed3.png)
+![gif](./front/public/my-feed3.png)
 
 ##
 
